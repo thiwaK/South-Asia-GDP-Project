@@ -1,2 +1,7 @@
 *.npy
-output\
+*.7z
+output_stat
+output_stat\
+output_stat/
+output_stat\*
+output_stat/*

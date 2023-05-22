@@ -1,7 +1,8 @@
 *.npy
 *.7z
 output_stat
-output_stat\
-output_stat/
 output_stat\*
 output_stat/*
+.ipynb_checkpoints
+.ipynb_checkpoints\*
+.ipynb_checkpoints/*
